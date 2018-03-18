@@ -51,16 +51,17 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Zhongshi Jiang"
-  role = "PhD student"
+  role ="PhD student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "New York University"}, {name= "Adobe Research"} ]
+  organizations = [ {name = "Geometric Computing Lab", url="//cims.nyu.edu/gcl/index.html"},
+   {name="Courant Institute of Mathematical Sciences", url="//cims.nyu.edu/"}, { name = "New York University"}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "zhongshi©cims.nyu.edu"
-  address = "60 Fifth Ave NYU, Room 505, Neaw York, NY, 10011"
+  address = "New York University\n 60 Fifth Ave, Room 505\n New York, NY 10011"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   # phone = "888 888 88 88"
   skype = "zhongshi.jiang"
