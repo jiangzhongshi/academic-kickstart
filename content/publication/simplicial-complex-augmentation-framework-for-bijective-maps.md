@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "ACM Transaction on Graphics (Proc. SIGGRAPH Asia 2017)"
-publication_short = "*ACM Transaction on Graphics* (Proc. SIGGRAPH Asia)"
+publication_short = "*ACM Transaction on Graphics* (Proceedings of  **SIGGRAPH Asia**)"
 
 # Abstract and optional shortened version.
 abstract = ""
