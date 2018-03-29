@@ -4,7 +4,7 @@ date = 2017-11-18T15:33:20-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Zhongshi Jiang", "Scott Schaefer", "Daniele Panozzo"]
+authors = ["**Zhongshi Jiang**", "Scott Schaefer", "Daniele Panozzo"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "ACM Transaction on Graphics (Proc. SIGGRAPH Asia 2017)"
-publication_short = "SIGGRAPH Asia"
+publication_short = "*ACM Transaction on Graphics* (Proc. SIGGRAPH Asia)"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -66,6 +66,6 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "https://cs.nyu.edu/~zhongshi/zhongshi_files/SCAF-2017.png"
-caption = ""
+caption = "captions is here"
 
 +++

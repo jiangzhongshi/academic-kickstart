@@ -4,7 +4,7 @@ date = 2018-03-28T20:04:23-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ilya Kostrikov", "Zhongshi Jiang", "Daniele Panozzo", "Denis Zorin", "Joan Bruna"]
+authors = ["Ilya Kostrikov", "**Zhongshi Jiang**", "Daniele Panozzo", "Denis Zorin", "Joan Bruna"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["Ilya Kostrikov", "Zhongshi Jiang", "Daniele Panozzo", "Denis Zorin",
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Computer Society Conference on Computer Vision and Pattern Recognition"
-publication_short = "CVPR"
+publication = "IEEE Computer Society Conference on Computer Vision and Pattern Recognition (Oral Presentation)"
+publication_short = "*IEEE Conference on Computer Vision and Pattern Recognition* (CVPR) (**Oral**)"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Oral Presentation"]
 
 # Links (optional).
 url_pdf = ""
