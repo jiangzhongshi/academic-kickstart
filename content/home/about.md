@@ -28,4 +28,4 @@ I am a second-year PhD student at the _Courant Institute of Mathematical Science
 
 From 2017-2018, I am fortunate to work with [Vladimir G. Kim](http://vovakim.com), [M. Ersin Yumer](//meyumer.com) and Stefano Corazza at the Creative Intelligence Lab, [Adobe Research](//research.adobe.com).
 
-I earned my Bachelor of Science in _Mathematics and Applied Mathematics_ from the School of Gifted Young, [University of Science and Technology of China](//www.ustc.edu.cn) in 2016, where I worked with Prof. Ligang Liu.
+I earned my Bachelor of Science in _Mathematics and Applied Mathematics_ from the School of Gifted Young, [University of Science and Technology of China](//www.ustc.edu.cn) in 2016.
