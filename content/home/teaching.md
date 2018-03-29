@@ -15,10 +15,10 @@ weight = 60
 
 +++
 
-# Computer Graphics
-### Teaching Assistant
-[Graduate Computer Graphics, CSCI-GA 2270-001 Fall 2017](https://github.com/danielepanozzo/cg)
+## Computer Graphics
+**Teaching Assistant**:
+[CSCI-GA 2270-001 - Computer Graphics](https://github.com/danielepanozzo/cg), 2017
 
-# Geometric Modeling
-### Teaching Assistant
-[CSCI-GA.3033-018 - Geometric Modeling Spring 2018](https://github.com/danielepanozzo/gp)
+## Geometric Modeling
+**Teaching Assistant**:
+[CSCI-GA.3033-018 - Geometric Modeling](https://github.com/danielepanozzo/gp), 2018

@@ -56,7 +56,7 @@ defaultContentLanguageInSubdir = false
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ {name = "Geometric Computing Lab", url="//cims.nyu.edu/gcl/index.html"},
-   {name="Courant Institute of Mathematical Sciences", url="//cims.nyu.edu/"}, { name = "New York University"}]
+   {name="Courant Institute of Mathematical Sciences"}, { name = "New York University"}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -195,7 +195,7 @@ defaultContentLanguageInSubdir = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 1
 
   # Social/Academic Networking
   #
@@ -251,18 +251,8 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "publication"
+  url = "#publications"
   weight = 2
-
-# [[menu.main]]
-#   name = "Posts"
-#   url = "#posts"
-#   weight = 3
-
-# [[menu.main]]
-#   name = "Projects"
-#   url = "#projects"
-#   weight = 4
 
 [[menu.main]]
   name = "Teaching"

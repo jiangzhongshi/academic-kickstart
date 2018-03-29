@@ -66,4 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-[Full list of publications >>](publication)
+<!-- [Full list of publications >>](publication) -->
