@@ -1,10 +1,10 @@
 +++
-title = "Simplicial Complex Augmentation Framework for Bijective Maps"
-date = 2017-11-18T15:33:20-04:00
+title = "Surface Networks"
+date = 2018-03-28T20:04:23-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Zhongshi Jiang", "Scott Schaefer", "Daniele Panozzo"]
+authors = ["Ilya Kostrikov", "Zhongshi Jiang", "Daniele Panozzo", "Denis Zorin", "Joan Bruna"]
 
 # Publication type.
 # Legend:
@@ -15,21 +15,21 @@ authors = ["Zhongshi Jiang", "Scott Schaefer", "Daniele Panozzo"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "ACM Transaction on Graphics (Proc. SIGGRAPH Asia 2017)"
-publication_short = "SIGGRAPH Asia"
+publication = "IEEE Computer Society Conference on Computer Vision and Pattern Recognition"
+publication_short = "CVPR"
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "img/SCAF-2017.png"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -42,12 +42,12 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/SCAFFOLD-2017.pdf"
+url_pdf = ""
 url_preprint = ""
-url_code = "https://github.com/jiangzhongshi/scaffold-map"
+url_code = "Soon"
 url_dataset = ""
 url_project = ""
-url_slides = "files/SCAF_talk.pdf"
+url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
@@ -65,7 +65,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "https://cs.nyu.edu/~zhongshi/zhongshi_files/SCAF-2017.png"
+image = ""
 caption = ""
 
 +++
