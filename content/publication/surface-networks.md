@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Computer Society Conference on Computer Vision and Pattern Recognition (Oral Presentation)"
-publication_short = "*IEEE Conference on Computer Vision and Pattern Recognition* (CVPR) (**Oral**)"
+publication_short = "*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) (*Oral Presentation*)"
 
 # Abstract and optional shortened version.
 abstract = ""
