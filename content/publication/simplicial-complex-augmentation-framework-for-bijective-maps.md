@@ -26,7 +26,7 @@ abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "img/SCAF-2017.png"
+image_preview = "SCAF-2017.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -65,7 +65,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "https://cs.nyu.edu/~zhongshi/zhongshi_files/SCAF-2017.png"
+image = "SCAF-2017.png"
 caption = "captions is here"
 
 +++
