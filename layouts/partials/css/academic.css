@@ -944,7 +944,7 @@ article .article-metadata {
 
 #contact.home-section li {
   padding-top: 0.8rem; /* Align text with bottom of `fa-2x` icon. */
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.1rem;
 }
 
 #contact.home-section li:last-of-type {
@@ -961,19 +961,24 @@ article .article-metadata {
  **************************************************/
 
 footer {
-  margin: 4rem 0 0;
-  padding: 2rem 0;
+  margin: 3rem 0 0;
+  padding: 1rem 0;
   width: 100%;
 }
 
 footer p {
   font-size: 0.75rem;
   text-align: center;
+  line-height: 50%;
 }
 
 .site-footer,
-footer a#back_to_top i {
-  color: #899596;
+footer i {
+  color: #727c7d;
+  background-color: #5e5e5e49;
+}
+footer a{
+  color: #00000049;
 }
 
 /*************************************************
@@ -1202,7 +1207,7 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-brand {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: bold;
   font-size: 1.2em;
   color: {{ .Get "menu_title" }};
