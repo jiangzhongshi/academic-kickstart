@@ -19,5 +19,6 @@ email_form = 2
 +++
 
 <a href="https://clustrmaps.com/site/19xud"  title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=200&t=n&d=f7zVXIiQYK-fN9Vi-m6-dLo8-X8kRl960qj1zTF5Zns" style="display:none;" /></a>
-<script src="//cdn.bootcss.com/canvas-nest.js/1.0.1/canvas-nest.min.js"></script>
+
+<script count="99" zIndex="-2" src="//cdn.bootcss.com/canvas-nest.js/1.0.1/canvas-nest.min.js"></script>
 
