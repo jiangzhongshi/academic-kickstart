@@ -26,7 +26,7 @@ abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "ComingSoon.png"
+image_preview = "SurfaceNetworks.png"
 
 # Is this a selected publication? (true/false)
 selected = false
