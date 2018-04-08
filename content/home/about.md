@@ -16,9 +16,11 @@ title = "Biography"
   ]
 
 [[education.courses]]
+  course = "PhD in Computer Science"
+  institution = "New York Univeristy, WIP"
+[[education.courses]]
   course = "BSc in Mathematics and Applied Mathematics"
-  institution = "University of Science and Technology of China"
-  year = 2016
+  institution = "University of Science and Technology of China, 2016"
  
 +++
 
