@@ -42,9 +42,9 @@ projects = []
 tags = ["Oral Presentation"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/SurfaceNetworks.pdf"
 url_preprint = ""
-url_code = "Soon"
+url_code = "https://github.com/jiangzhongshi/SurfaceNetworks"
 url_dataset = ""
 url_project = ""
 url_slides = ""
