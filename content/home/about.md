@@ -12,6 +12,7 @@ title = "Biography"
   interests = [
     "Geometry Processing",
     "Computer Grphics",
+    "Geometric Optimization",
     "Geometric Deep Learning"
   ]
 
@@ -26,8 +27,8 @@ title = "Biography"
 
 # About Me
 
-I am a second-year PhD student at the _Courant Institute of Mathematical Sciences_, New York University, working on computer graphics and geometry processing with [Prof. Daniele Panozzo](http://cs.nyu.edu/~panozzo). My current research aims to robustly and efficiently process geometric entities with optimization and data driven approaches. My research has been recognized by [Adobe Research Fellowship 2018](https://research.adobe.com/fellowship/previous-fellowship-award-winners/).
+I am a third-year PhD student at the _Courant Institute of Mathematical Sciences_, New York University, working on computer graphics and geometry processing with [Prof. Daniele Panozzo](http://cs.nyu.edu/~panozzo). My current research aims to robustly and efficiently process geometric entities with optimization and data driven approaches. My research has been recognized by [Adobe Research Fellowship 2018](https://research.adobe.com/fellowship/previous-fellowship-award-winners/).
 
-From 2017-2018, I am fortunate to work with [Vladimir G. Kim](http://vovakim.com), [M. Ersin Yumer](//meyumer.com) and Stefano Corazza at the Creative Intelligence Lab, [Adobe Research](//research.adobe.com).
+From 2017-2018, I am fortunate to work with [Vladimir G. Kim](http://vovakim.com) at the Creative Intelligence Lab, [Adobe Research](//research.adobe.com).
 
 I earned my Bachelor of Science in _Mathematics and Applied Mathematics_ from the School of Gifted Young, [University of Science and Technology of China](//www.ustc.edu.cn) in 2016.
