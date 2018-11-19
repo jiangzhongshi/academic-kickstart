@@ -52,7 +52,7 @@ defaultContentLanguageInSubdir = false
   # Your details.
   name = "Jiang, Zhongshi"
   nameCN = "姜仲石"
-  roles = [{name = "PhD student"}, {name = "Adobe Research Fellow"}]
+  roles = [{name = "PhD candidate"}, {name = "Adobe Research Fellow"}]
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
