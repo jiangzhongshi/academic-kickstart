@@ -17,8 +17,8 @@ authors = ["Sebastian Koch", "Albert Matveev", "**Zhongshi Jiang**", "Francis Wi
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv"
-publication_short = "arXiv"
+publication = "IEEE Conference on Computer Vision and Pattern Recognition"
+publication_short = "CVPR"
 
 # Abstract and optional shortened version.
 abstract = ""
