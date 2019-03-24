@@ -1,10 +1,11 @@
 +++
-title = "ABC: A Big CAD Model Dataset For Geometric Deep Learning "
-date = 2019-02-15T20:04:23-04:00
+title = "Progressive Embedding"
+date = 2019-03-20T15:33:20-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sebastian Koch", "Albert Matveev", "**Zhongshi Jiang**", "Francis Williams", "Alexey Artemov", "Evgeny Burnaev", "Marc Alexa", "Denis Zorin", "Daniele Panozzo"]
+authors = ["Hanxiao Shen", "**Zhongshi Jiang**", "Denis Zorin", "Daniele Panozzo"]
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -14,18 +15,18 @@ authors = ["Sebastian Koch", "Albert Matveev", "**Zhongshi Jiang**", "Francis Wi
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Conference on Computer Vision and Pattern Recognition"
-publication_short = "CVPR"
+publication = "ACM Transaction on Graphics (Proc. SIGGRAPH 2019)"
+publication_short = "*ACM Transaction on Graphics* (Proceedings of  **SIGGRAPH**)"
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "abc-dataset.png"
+image_preview = "PE-2019.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -41,8 +42,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1812.06216"
-url_preprint = "https://arxiv.org/abs/1812.06216"
+url_pdf = ""
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -64,7 +65,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "PE-2019.png"
+caption = "captions is here"
 
 +++
