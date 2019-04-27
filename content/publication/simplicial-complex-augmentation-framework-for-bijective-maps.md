@@ -42,9 +42,9 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/SCAFFOLD-2017.pdf"
+url_pdf = "https://par.nsf.gov/servlets/purl/10047009"
 url_preprint = ""
-url_code = "https://github.com/jiangzhongshi/scaffold-map"
+url_code = "https://github.com/jiangzhongshi/Scaffold-Map"
 url_dataset = ""
 url_project = ""
 url_slides = "files/SCAF_talk.pdf"
