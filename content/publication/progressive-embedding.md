@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/ProgressiveEmbedding.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
