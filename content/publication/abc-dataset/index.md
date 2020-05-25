@@ -1,19 +1,10 @@
----
-title: "ABC: A Big CAD Model Dataset For Geometric Deep Learning "
-date: "2019-02-15T20:04:23-04:00"
-
++++
+title = "ABC: A Big CAD Model Dataset For Geometric Deep Learning "
+date = 2019-02-15T20:04:23-04:00
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors:
-- Sebastian Koch
-- Albert Matveev
-- Zhongshi Jiang
-- Francis Williams
-- Alexey Artemov
-- Evgeny Burnaev
-- Marc Alexa
-- Denis Zorin
-- Daniele Panozzo
+authors = ["Sebastian Koch", "Albert Matveev", "**Zhongshi Jiang**", "Francis Williams", "Alexey Artemov", "Evgeny Burnaev", "Marc Alexa", "Denis Zorin", "Daniele Panozzo"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -23,59 +14,57 @@ authors:
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types: ["1"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication: "IEEE Conference on Computer Vision and Pattern Recognition"
-publication_short: "CVPR"
+publication = "IEEE Conference on Computer Vision and Pattern Recognition"
+publication_short = "CVPR"
 
 # Abstract and optional shortened version.
-abstract: ""
-abstract_short: ""
+abstract = ""
+abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview: "abc-dataset.png"
+image_preview = "abc-dataset.png"
 
 # Is this a selected publication? (true/false)
-selected: true
-featured: true
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects : ["deep-learning"]` references `content/project/deep-learning.md`.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+projects = []
 
 # Tags (optional).
-#   Set `tags : []` for no tags, or use the form `tags : ["A Tag", "Another Tag"]` for one or more tags.
-tags : []
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
 
 # Links (optional).
-url_pdf : "https://arxiv.org/abs/1812.06216"
-url_preprint : "https://arxiv.org/abs/1812.06216"
-url_code : ""
-url_dataset : "https://archive.nyu.edu/handle/2451/43778"
-url_project : "https://deep-geometry.github.io/abc-dataset/"
-url_slides : ""
-url_video : ""
-url_poster : ""
-url_source : ""
+url_pdf = "https://arxiv.org/abs/1812.06216"
+url_preprint = "https://arxiv.org/abs/1812.06216"
+url_code = ""
+url_dataset = "https://archive.nyu.edu/handle/2451/43778"
+url_project = "https://deep-geometry.github.io/abc-dataset/"
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom : [{name : "Custom Link", url : "http://example.org"}]
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
-math : false
+math = false
 
 # Does this page require source code highlighting? (true/false)
-highlight : true
+highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image : "example.jpg"`.
-# [header]
-image:
-  caption: ""
-  preview_only: false
-# image : "abc-dataset.png"
-# caption : ""
----
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
++++
