@@ -1,0 +1,43 @@
+<footer class="site-footer">
+
+<a href=""  title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=200&t=n&d=f7zVXIiQYK-fN9Vi-m6-dLo8-X8kRl960qj1zTF5Zns" style="display:none;" /></a>
+
+<script count="99" zIndex="-2" src="//cdn.bootcss.com/canvas-nest.js/1.0.1/canvas-nest.min.js"></script>
+
+  <div class="container">
+    <p>60 Fifth Ave, Room 505, New York University, New York </p>
+    <p class="powered-by">
+
+      {{ with .Site.Copyright }}{{ . | markdownify}} Zhongshi Jiang &middot; {{ end }}
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    </p>
+  </div>
+</footer>
+
+<!-- Citation modal -->
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">{{ i18n "btn_cite" }}</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> {{ i18n "btn_copy" }}
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> {{ i18n "btn_download" }}
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>

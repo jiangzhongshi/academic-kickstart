@@ -7,9 +7,20 @@ weight = 20  # Order that this section will appear in.
 
 title = "About Me"
 
-# Choose the user profile to display
-# This should be the username of a profile in your `content/authors/` folder.
-# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-author = "admin"
+# List your academic interests.
+[interests]
+  interests = [
+    "Geometry Processing",
+    "Geometric Computing",
+    "Geometric Deep Learning"
+  ]
+
+[[education.courses]]
+  course = "PhD in Computer Science"
+  institution = "New York Univeristy, WIP"
+[[education.courses]]
+  course = "BSc in Mathematics and Applied Mathematics"
+  institution = "University of Science and Technology of China, 2016"
+ 
 +++
 Lorem Ipsum About Me.
