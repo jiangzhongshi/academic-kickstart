@@ -44,13 +44,13 @@ tags = []
 # Links (optional).
 url_pdf = "files/BijectivePrism.pdf"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/jiangzhongshi/bijective-projection-shell"
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://github.com/jiangzhongshi/bijective-projection-shell"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
