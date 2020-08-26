@@ -1,6 +1,6 @@
 +++
 title = "Bijective Projection in a Shell"
-date = 2020-03-20T15:33:20-04:00
+date = 2020-08-20T15:33:20-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
