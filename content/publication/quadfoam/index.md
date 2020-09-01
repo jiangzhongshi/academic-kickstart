@@ -48,7 +48,7 @@ url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=Ivg7kucJiY4"
 url_poster = ""
 url_source = "https://cims.nyu.edu/gcl/papers/2020-Quad-Foam.zip"
 

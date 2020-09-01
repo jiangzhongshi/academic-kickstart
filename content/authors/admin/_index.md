@@ -32,9 +32,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: PhD candidate in Computer Science
     institution: New York Univeristy
-    year: 2021
+    year: 
   - course: BSc in Mathematics and Applied Mathematics
     institution: University of Science and Technology of China
     year: 2016
@@ -69,7 +69,7 @@ user_groups:
 ---
 
 
-I am a fourth-year PhD candidate at the _Courant Institute of Mathematical Sciences_, New York University, working on geometry processing with [Prof. Daniele Panozzo](http://cs.nyu.edu/~panozzo). My current research aims to robustly and efficiently process geometric entities with optimization and data driven approaches. My research has been recognized by [Adobe Research Fellowship 2018](https://research.adobe.com/fellowship/previous-fellowship-award-winners/), [Geometry Processing Dataset Award 2019](https://sgp2019.di.unimi.it/awards/SGP2019_dataset_award_scroll.pdf),
+I am a fifth-year PhD candidate at the _Courant Institute of Mathematical Sciences_, New York University, working on geometry processing with [Prof. Daniele Panozzo](http://cs.nyu.edu/~panozzo). My current research aims to robustly and efficiently process geometric entities with optimization and data driven approaches. My research has been recognized by [Adobe Research Fellowship 2018](https://research.adobe.com/fellowship/previous-fellowship-award-winners/), [Geometry Processing Dataset Award 2019](https://sgp2019.di.unimi.it/awards/SGP2019_dataset_award_scroll.pdf),
 and [Jacob T. Schwartz PhD Fellowship 2020](https://cims.nyu.edu/academics/student_recognition.html).
 
 <!-- From 2017-2018, I am fortunate to work with [Vladimir G. Kim](http://vovakim.com) at the Creative Intelligence Lab, [Adobe Research](//research.adobe.com). -->

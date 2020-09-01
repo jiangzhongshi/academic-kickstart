@@ -43,7 +43,7 @@ tags = ["Oral Presentation"]
 
 # Links (optional).
 url_pdf = "files/SurfaceNetworks.pdf"
-url_preprint = ""
+url_preprint = "https://arxiv.org/pdf/1705.10819.pdf"
 url_code = "https://github.com/jiangzhongshi/SurfaceNetworks"
 url_dataset = ""
 url_project = ""

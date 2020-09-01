@@ -70,11 +70,11 @@
 {{ end }}
 
 <div class="row">
-  <div class="col-xs-12 col-md-16">
+  <div class="col-12 col-lg-4 section-heading">
     <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
-  <div class="col-12 col-md-20">
+  <div class="col-12 col-lg-8">
 
     {{ with $st.Content }}{{ . }}{{ end }}
 
@@ -86,7 +86,7 @@
       {{ else if eq $st.Params.design.view 4 | and (eq $items_type "publication") }}
         {{ partial "li_citation" . }}
       {{ else }}
-        {{ partial "publication_li_detailed" . }}
+        {{ partial "li_compact" . }}
       {{ end }}
     {{end}}
 
